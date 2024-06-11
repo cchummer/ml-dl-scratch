@@ -1,2 +1,3 @@
 # ml-dl-scratch
-Machine+Deep Learning Implementations
+Machine Learning, Neural Networks, Deep Learning
+implementations + workbooks
